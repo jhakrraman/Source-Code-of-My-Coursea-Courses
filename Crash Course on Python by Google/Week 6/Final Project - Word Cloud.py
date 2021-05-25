@@ -200,6 +200,8 @@ plt.imshow(myimage, interpolation = 'nearest')
 plt.axis('off')
 plt.show()
 
+![download](https://user-images.githubusercontent.com/63340485/119470885-64c6dc00-bd66-11eb-8cf1-2549946af69a.png)
+
 If your word cloud image did not appear, go back and rework your calculate_frequencies function until you get the desired output. 
 Definitely check that you passed your frequecy count dictionary into the generate_from_frequencies function of wordcloud. 
 Once you have correctly displayed your word cloud image, you are all done with this project. Nice work!
